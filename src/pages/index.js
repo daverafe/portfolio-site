@@ -24,7 +24,7 @@ const lifestyleRoster =  {
 }
 
   return (
-    <Layout pageTitle="Home Page">
+    <Layout pageTitle="Projects">
       <ProjectContainer projectInfo={artMarket}></ProjectContainer>
       <ProjectContainer projectInfo={queue}></ProjectContainer>
       <ProjectContainer projectInfo={lifestyleRoster}></ProjectContainer>
